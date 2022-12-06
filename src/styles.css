@@ -17,6 +17,19 @@ li {
   font-size: 14px;
   list-style: none;
 }
+small {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  line-height: 1.5;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  transition: all 200ms ease-in-out;
+}
+
 .container {
   margin: 80px 200px;
   max-width: 70%;
