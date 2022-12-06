@@ -32,7 +32,7 @@ li {
   bottom: 0;
 }
 #content-capsule {
-  background-image: url("src/nature.png"),
+  background-image: url("nature.png"),
     linear-gradient(
       109.6deg,
       rgb(17, 151, 147) 11.2%,
