@@ -16,6 +16,7 @@ li {
   color: white;
   font-size: 14px;
   list-style: none;
+  text-transform: capitalize;
 }
 small {
   font-family: "Roboto", sans-serif;
