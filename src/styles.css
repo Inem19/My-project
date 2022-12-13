@@ -62,15 +62,20 @@ a:hover {
   font-size: 100px;
   color: white;
 }
+.weather-temperature {
+  margin: 10px 0px;
+}
 .temperature {
   font-size: 100px;
   color: white;
+  position: relative;
+  top: 15px;
 }
 .units {
   font-size: 18px;
   color: white;
   position: relative;
-  top: -56px;
+  top: -48px;
 }
 .link {
   color: white;
