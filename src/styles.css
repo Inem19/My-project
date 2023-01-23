@@ -19,12 +19,17 @@ li {
   text-transform: capitalize;
 }
 small {
+  display: block;
+  text-align: center;
   font-family: "Roboto", sans-serif;
-  color: black;
+  color: #427977;
   line-height: 1.5;
+  font-size: 16px;
+  margin: 20px;
 }
 a {
   text-decoration: none;
+  color: #427977;
 }
 a:hover {
   text-decoration: underline;
