@@ -37,7 +37,7 @@ a:hover {
 }
 
 .container {
-  margin: 80px 200px;
+  margin: 50px auto;
   max-width: 70%;
   font-family: "Roboto", sans-serif;
   border-radius: 20px;
@@ -58,7 +58,7 @@ a:hover {
       rgb(154, 214, 212) 55.4%,
       rgb(255, 233, 171) 100.2%
     );
-  margin: 20px 100px;
+  margin: 20px;
   padding: 30px 20px 40px;
   background-size: cover;
   background-position: center;
